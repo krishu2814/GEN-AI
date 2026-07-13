@@ -1,0 +1,62 @@
+KRISHU KUMAR
+ +91-9262602704
+# krishukumarsingh06@gmail.com
+ï krishu-kumar-singh-77a640314
+§ krishu2814
+* Saharsa, Bihar
+EDUCATION
+Indian Institute of Information Technology (IIIT), Ranchi
+2024 – 2028
+Bachelor of Technology in ECE (ES and IOT)
+CGPA: 9.04
+TECHNICAL SKILLS
+Languages: C++, JavaScript (ES6+), TypeScript, Python, SQL
+Frontend: React.js, HTML5, CSS3
+Backend Technologies: Node.js, Express.js, RESTful APIs, JWT Authentication, RabbitMQ, Microservices, Axios
+Databases & Caching: MongoDB, MySQL, Redis, Mongoose, Sequelize
+DevOps & Cloud: Docker, Git, GitHub, Postman, MongoDB Atlas
+Core Computer Science: Data Structures & Algorithms, Object-Oriented Programming, Distributed Systems
+PROJECTS
+E-Commerce Microservices Backend | GitHub 2 | Node.js, Express, MongoDB, RabbitMQ, Redis, JWT, Axios
+– Architected a scalable microservices backend using a Class-based OOP approach in JavaScript, implementing the
+Controller-Service-Repository pattern for superior code maintainability.
+– Engineered an **event-driven notification system** utilizing RabbitMQ to decouple order processing from email delivery, dispatching
+automated updates via Nodemailer.
+– Implemented JWT-based authentication with custom middleware validation, securing inter-service communication and sensitive user
+data across 5+ independent services.
+– Developed RESTful APIs supporting filtering, pagination, and search functionality, and integrated Redis caching to reduce repeated
+database queries.
+– Integrated synchronous inter-service communication using Axios, ensuring real-time consistency between Product, Cart, and Order
+services during high-traffic simulations.
+– Developed a dynamic Order and Payment workflow with stock validation , managing complex state transitions and transaction
+integrity.
+Flight Booking Microservice Project | GitHub 2 | Node.js, MySQL, RabbitMQ, Sequelize, Axios, Gateway
+– Designed a scalable Distributed Microservices Architecture featuring a centralized API Gateway to handle request routing, rate
+limiting, and cross-service authentication.
+– Implemented inter-service communication using Axios for synchronous REST calls and RabbitMQ for asynchronous event-driven
+updates, ensuring high availability and loose coupling.
+– Implemented stateless JWT authentication at the API Gateway to secure user requests and enforce authorization across multiple
+microservices.
+– Built an asynchronous notification service using RabbitMQ and Nodemailer to handle booking confirmation emails without impacting
+core booking workflows.
+– Managed database schema evolution using Sequelize migrations and seeders, ensuring consistent deployment and version-controlled
+database changes.
+Twitter Modular Monolith Project | GitHub 2 | Node.js, Express, MongoDB, RabbitMQ, JWT, Nodemailer
+– Spearheaded the development of a Twitter-clone backend, logically organizing the codebase into 4+ independent modules to
+enhance system decoupling and team maintainability.
+– Secured and documented 25+ REST API endpoints using JWT middleware, implementing strict authorization layers for secure
+frontend-to-backend data exchange.
+– Designed follow/unfollow functionality using MongoDB transactions to maintain consistency during multi-document updates.
+– Accelerated personalized feed generation using complex MongoDB aggregation pipelines, achieving high-performance timeline
+rendering in under 250ms.
+– Engineered an event-driven notification system using RabbitMQ as a message broker and Nodemailer to process 1,000+ simulated
+asynchronous events per hour for likes, follows, and messages.
+– Utilized atomic database operations for user interactions such as likes and follows to ensure consistency during concurrent requests.
+ACHIEVEMENTS
+• Competitive Programming - CodeChef: Attained a Peak Rating of 1441, regularly participating in rated contests to refine advanced
+data structures and algorithmic efficiency.
+• Problem Solving - Codeforces: Solved 200+ algorithms and achieved a Peak Rating of 1124, demonstrating strong analytical logic
+and mathematical problem-solving.
+• Hackathon Winner: Secured 1st Rank in the CP Rumble algorithmic contest organized by the TAP Cell of IIIT Ranchi.
+• Leadership & Athletics: Selected in Volleyball Team to represent IIIT Ranchi at the Inter IIIT Sports Meet 2025 in Gwalior,
+demonstrating teamwork, discipline, and high-level athletic commitment.
